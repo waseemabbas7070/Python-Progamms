@@ -1,5 +1,5 @@
-name  =  input("Enter Some Words : ")
+text =  input("Enter Some String : ")
 
-reverse_string = name[::-1]
+reversed_text = text[::-1]
 
-print(reverse_string)
+print(f"Reversed String : {reversed_text}")
