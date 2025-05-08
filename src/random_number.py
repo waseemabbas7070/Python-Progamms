@@ -4,4 +4,4 @@ high = int(input("Enter the upper  bound : "))
 
 random_number = random.randint(low , high)
 
-print(f"Random number between {low} and {high} : {random_number}")
+print(f"Random number between {low} and {high} : {random_number }")
